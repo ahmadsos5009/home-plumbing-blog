@@ -1,0 +1,2 @@
+(self.webpackChunkhome_plumbing_blog=self.webpackChunkhome_plumbing_blog||[]).push([[473],{1922:function(e,t,l){"use strict";l.r(t);var n=l(7294),o=l(5444),a=l(2755),c=l(9470);t.default=function(){return n.createElement(a.Z,null,n.createElement(c.Z,{title:"Page two"}),n.createElement("h1",null,"Hi from the second page"),n.createElement("p",null,"Welcome to page 2"),n.createElement(o.Link,{to:"/"},"Go back to the homepage"))}}}]);
+//# sourceMappingURL=component---src-pages-page-2-tsx-83e53505acb7baaf82cb.js.map

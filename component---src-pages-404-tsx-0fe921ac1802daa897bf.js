@@ -1,0 +1,2 @@
+(self.webpackChunkhome_plumbing_blog=self.webpackChunkhome_plumbing_blog||[]).push([[218],{938:function(e,t,n){"use strict";n.r(t);var l=n(7294),u=n(2755),o=n(9470);t.default=function(){return l.createElement(u.Z,null,l.createElement(o.Z,{title:"404: Not found"}),l.createElement("h1",null,"404: Not Found"),l.createElement("p",null,"You just hit a route that doesn't exist... the sadness."))}}}]);
+//# sourceMappingURL=component---src-pages-404-tsx-0fe921ac1802daa897bf.js.map
